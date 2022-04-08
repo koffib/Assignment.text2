@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "First_Lecture",
+			"path": "..\\..\\..\\..\\Spring 2022 Dev Front\\First_Lecture"
+		},
+		{
+			"name": "Assignment.text3",
+			"path": "..\\..\\Assignment.text3"
+		},
+		{
+			"name": "Assignment.text2",
+			"path": "..\\..\\Assignment.text2"
+		},
+		{
+			"name": "Assignment.text4",
+			"path": "..\\..\\Assignment.text4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "First_Lecture"
+	}
+}
